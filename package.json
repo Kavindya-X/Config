@@ -4,7 +4,7 @@
   "description": "❤️Amazone is a POWERFULL Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./ales/main.js",
   "scripts": {
-    "start": "supervisor -s bot.js"
+    "start": "supervisor -s main.js"
   },
   "repository": {
     "type": "git",
